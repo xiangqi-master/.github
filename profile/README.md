@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+Click on the link to view the documentation:
+https://xiangqi-master.mintlify.app/
 <!--
 
 **Here are some ideas to get you started:**
