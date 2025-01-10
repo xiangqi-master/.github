@@ -1,3 +1,11 @@
+---
+name: Bug report
+about: Use this template for bug report.
+title: ""
+labels: bug
+assignees: ""
+---
+
 ## Description
 <!--- Provide a general summary of the issue in the Title above -->
 
